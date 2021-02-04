@@ -1,0 +1,115 @@
+.todo_item {
+    width: 450px;
+    height: 35px;
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    border: 2px solid #5c0194;
+    border-radius: 10px/10px;
+    padding: 5px;
+    margin-top: 7px;
+    margin-bottom: 5px;
+    background-color: #9002e8;
+    color: #ecdff5;
+}
+
+.edit_btn {
+    height: 38px;
+    width: 44px;
+    background-color: #44006e;
+    border: 2px solid #5c0194;
+    border-radius: 10px/10px;
+    margin-right: 4px;
+    font-family:'Nunito', sans-serif;
+    color: #ecdff5;
+}
+
+.delete_btn {
+    height: 38px;
+    width: 52px;
+    background-color: #44006e;
+    border: 2px solid #5c0194;
+    border-radius: 10px/10px;
+    font-family:'Nunito', sans-serif;   
+    color: #ecdff5;
+}
+
+.save-btn {
+    height: 38px;
+    width: 44px;
+    background-color: #44006e;
+    border: 2px solid #5c0194;
+    border-radius: 10px/10px;
+    margin-right: 4px;
+    font-family:'Nunito', sans-serif;
+    color: #ecdff5;
+}
+
+.todo_index {
+    color: #ecdff5;
+    height: 20px;
+    width: 20px;
+    align-items: center;
+    background-color: #9002e8;
+    margin-left: 2px;
+    margin-right: 7.3px;
+}
+
+.todo_title {
+    color: rgb(24, 4, 4)00;
+    height: 38px; 
+    width: 240px;
+    align-items: center;
+    background-color: #ecdff5;
+    margin-left: 5px;
+
+}
+
+.todo_checkbox {
+    color: #ecdff5;
+    height: 20px;
+    width: 20px;
+    align-items: center;
+    background-color: #9002e8;
+    margin-right: 7px; 
+
+}
+
+.title_change {
+    height: 26px;
+    width: 240px;
+    margin-right: 3px;
+    color: #ecdff5;
+    background-color: #9002e8;
+    border: 2px solid #5c0194;
+    border-radius: 10px/10px;
+}
+
+.todo_text {
+    width: 240px;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.buttons {
+    position: absolute;
+    right: 435px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
